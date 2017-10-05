@@ -1,3 +1,4 @@
+```python
 # 0001
 
 uuids=[]
@@ -21,3 +22,4 @@ for i in range(1,200):
     uuids.append(str(uuid.uuid4()))
 
 print (uuids)
+```
